@@ -1,0 +1,7 @@
+{
+  "name": "EcoHub: Environmental Sustainability",
+  "description": "A responsive and modern website that promotes environmental sustainability, offering ways for users to get involved in community clean-ups, tree planting, recycling, and conservation efforts, while tracking their positive impact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
